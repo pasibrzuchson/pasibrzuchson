@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pasibrzuchson
+- 👋 Hi, I’m @pasibrzuchson from Poland
 - 👀 I’m interested in new DotNet technology, gaming and workouts
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on interesting projects in DotNet technology 
